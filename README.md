@@ -26,5 +26,5 @@ FOODCAVE is an online canteen food ordering and management system. This system h
 - To install the FOODCAVE, download and install XAMPP, download this repository and put into directory (C:/xampp/htdocs/), import database and name it foodcave in phpMyAdmin (http://localhost/phpmyadmin) using file foodcave.sql, start Apache and MySQL services, then run and access by using web browser (http://localhost/FOODCAVE/) and enjoy.
 - You can register for the customer account and log in. To log in with admin account, press the log in with admin account under login page. Add shousing the admin mode. You can look up 
 
-## Members
+## Member
 G Thilak Chowdary
