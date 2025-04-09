@@ -27,4 +27,4 @@ FOODCAVE is an online canteen food ordering and management system. This system h
 - You can register for the customer account and log in. To log in with admin account, press the log in with admin account under login page. Add shousing the admin mode. You can look up 
 
 ## Member
-G Thilak Chowdary
+G Thilak
