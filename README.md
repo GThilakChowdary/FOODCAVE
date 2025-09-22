@@ -3,7 +3,6 @@
 ONLINE-CANTEEN-FOOD-ORDERING-SYSTEM-USING-PHP Project
 
 ## Project Status
-Status: **OPENED**\
 Completion: **100%**\
 Updated on: August 19th, 2023
 
